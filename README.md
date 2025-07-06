@@ -146,8 +146,8 @@ This project is licensed under the MIT License.
 
 If you have any questions or want to collaborate:
 
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: [yourname@example.com](mailto\:yourname@example.com)
+- GitHub: [yourusername](https://github.com/amika-d)
+- Email: [yourname@example.com](mailto\:amika.g.d@gmail.com)
 
 ---
 
